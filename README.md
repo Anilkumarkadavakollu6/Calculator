@@ -5,4 +5,4 @@ A simple Calculator Program that supports arithmetic operations.
 
 Here’s a screenshot of the project:  
 
-![Calculator Preview](Calculator.png)  
+![Calculator Preview](Calculator.PNG)  
