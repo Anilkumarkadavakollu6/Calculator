@@ -6,3 +6,8 @@ A simple Calculator Program that supports arithmetic operations.
 Here’s a screenshot of the project:  
 
 ![Calculator Preview](Calculator.PNG)  
+
+
+--> You can clone this repositary
+
+git clone https://github.com/Anilkumarkadavakollu6/Calculator/tree/main
